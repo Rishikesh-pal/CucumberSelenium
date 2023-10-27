@@ -1,0 +1,6 @@
+appfeatures\MagnetoFailedRunnerTest.class
+utility\ConfigLoader.class
+appfeatures\AppHooks.class
+appfeatures\MagnetoRunnerTest.class
+appfeatures\HomePageSteps.class
+appfeatures\ProductPageSteps.class
